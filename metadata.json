@@ -1,0 +1,6 @@
+{
+  "name": "Color Palette Generator",
+  "description": "A modern, responsive color palette generator inspired by Coolors and Adobe Color with color locks, harmonies, WCAG contrast badges, copy feedback, and export options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
